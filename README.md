@@ -1,2 +1,5 @@
 # ns-snek
-Niantic Studio Sample Project: Snek
+Niantic Studio Tutorial.\
+Sample Project: Snek Game 🐍✨
+
+Watch video tutorial here: [https://www.youtube.com/watch?v=yjRhbhBVqKU](https://www.youtube.com/watch?v=yjRhbhBVqKU)
